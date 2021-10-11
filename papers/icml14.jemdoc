@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU}{icml14.html}, showsource
+=Robust Inverse Covariance Estimation under Noisy Measurements.
+
+This paper proposes a robust method to estimate the inverse covariance under noisy measurements. The method is based on the estimation of each column in the inverse covariance matrix independently via robust regression, which enables parallelization. Different from previous linear programming based methods that cannot guarantee a positive semi-definite covariance matrix, our method adjusts the learned matrix to satisfy this condition, which further facilitates the tasks of forecasting future values. Experiments on time series prediction and classification under noisy condition demonstrate the effectiveness of the approach.
+
+
+@inproceedings{JWang14,\n
+  author =      "J.-K. Wang and S.-D. Lin",\n
+  title =      "Robust inverse covariance estimation under noisy measurements",\n
+  booktitle =    {International Conference on Machine Learning (ICML) 31},\n
+  year =     "2014",\n
+} 
+
+[http://jmlr.org/proceedings/papers/v32/wangf14.pdf paper]\n
+[code_icml14.zip code]\n
+[data_icml14.zip data]\n
+[slide_icml14.pdf slide]
