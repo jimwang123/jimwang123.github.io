@@ -1,0 +1,75 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+= Jun-Kun Wang 
+#[http://stanford.edu/~jacobm/ Jacob Mattingley] ([jacobm@stanford.edu])
+
+~~~
+#{}{img_left}{bejing.jpg}{}{260}{200}{}
+
+I am in my fifth year of CS PhD at Georgia Tech.
+My advisor is [https://www.cc.gatech.edu/~jabernethy9/  Professor Jacob Abernethy]. Before that, I was a research assistant at CSIE Department, National Taiwan University (NTU), where I worked with Prof. [http://www.csie.ntu.edu.tw/~sdlin/ Shou-De Lin] and also worked closely with [http://www.iis.sinica.edu.tw/pages/cjlu Dr. Chi-Jen Lu] at Academia Sinica. My PhD research focuses on theoretical understanding of modern algorithms/techniques in optimization and deep learning (e.g. Polyak\'s  momentum, Nesterov\'s momentum, accelerated gradient methods), as well as designing new algorithms with provable guarantees. I hope to study reinforcement learning in the future! 
+
+Fun skill 1: I like to run and enjoy long-distance running. I run a lot!
+
+Fun skill 2: I am a top x\% reviewer of NeurIPS 2018, 2019 (x is the number that guarantees a registration of NeurIPS) and a top 33% reviewer of ICML 2020. Give me a paper, I can quickly provide a quite good review!
+  
+
+Reviewer of NeurIPS 2016,2017,2018,2019,2020, of ICML 2017,2018,2019,2020,2021 of COLT 2017,2018,2019,2020,2021, of ALT 2017,2018,2019,2020, of ICLR 2021.
+~~
+
+~~~
+*Publications:  \*Corresponding Author/\*Presenting Author *
+
+[https://arxiv.org/abs/2010.01618 A Modular Analysis of Provable Acceleration via Polyak's momentum: Training a Wide ReLU Network and a Deep Linear Network ] \n
+Jun-Kun Wang, Chi-Heng Lin, and Jacob Abernethy. \n 
+In /International Conference on Machine Learning (ICML) 2021/.
+
+[https://openreview.net/forum?id=rkeNfp4tPr  Escape Saddle Points Faster with Stochastic Momentum]. \n
+*\**Jun-Kun Wang, Chi-Heng Lin, and Jacob Abernethy. \n
+In /International Conference on Learning Representations (ICLR) 2020/.
+
+[http://proceedings.mlr.press/v98/wang19b/wang19b.pdf Online Linear Optimization with Sparsity Constraints] \n
+*\**Jun-Kun Wang, *\** Chi-Jen Lu, and Shou-De Lin. \n
+In /International Conference on Algorithmic Learning Theory (ALT) 30, 2019/.
+
+[https://arxiv.org/pdf/1811.05831.pdf  Revisiting Projection-Free Optimization For Strongly Convex Constraint Sets] \n
+Jarrid Rector-Brooks, Jun-Kun Wang, and Barzan Mozafari. \n
+In /(AAAI) 33, 2019/.
+
+[https://arxiv.org/pdf/1807.10455.pdf Acceleration through Optimistic No-Regret Dynamics] \n
+*\**Jun-Kun Wang and Jacob Abernethy. \n 
+In /Annual Conference on Neural Information Processing Systems (NeurIPS)/ 2018 (Spotlight) [https://arxiv.org/pdf/1807.10455.pdf paper]
+
+[http://proceedings.mlr.press/v75/abernethy18a/abernethy18a.pdf Faster Rates for Convex-Concave Games] \n
+(name order) Jacob Abernethy, Kevin Lai, Kfir Levy, and *\**Jun-Kun Wang. \n
+In /Computational Learning Theory (COLT)/ 2018.
+
+[./papers/nips_2017.pdf On Frank-Wolfe and Equilibrium Computation]\n
+Jacob Abernethy and *\**Jun-Kun Wang. \n
+In /Annual Conference on Neural Information Processing Systems
+(NeurIPS)/ 2017 (Spotlight).
+[./papers/nips_2017.pdf paper] [./papers/nips17_supp.pdf supplementary]
+
+[./papers/dsaa2016_admm.pdf Efficient Sampling-based ADMM for Distributed Data] \n *\**Jun-Kun Wang, Shou-De Lin.\n
+In /IEEE International Conference on Data Science and Advanced Analytics (DSAA) 3, 2016/. [https://github.com/j123456/dis_sdcaadmm code]
+
+[./papers/dsaa2016_plsi.pdf Parallel Least-Squares Policy Iteration] \n
+*\**Jun-Kun Wang, Shou-De Lin. \n
+In /IEEE International Conference on Data Science and Advanced Analytics (DSAA) 3, 2016/. 
+
+
+[http://jmlr.org/proceedings/papers/v32/wangf14.pdf  Robust Inverse Covariance Estimation under Noisy Measurements] \n *\**Jun-Kun Wang, Shou-De Lin.\n
+In /International Conference on Machine Learning (ICML) 31, 2014/.
+[http://jmlr.org/proceedings/papers/v32/wangf14.pdf paper]
+[./papers/slide_icml14.pdf slide]
+~~~
+
+~~~
+* Techical Reports: *
+
+[1] [https://arxiv.org/pdf/2010.01449  Quickly Finding a Benign Region via Heavy Ball Momentum in Non-Convex Optimization ] \n
+Jun-Kun Wang, Jacob Abernethy. \n
+arXiv 2020.
+~~~
+
+
+

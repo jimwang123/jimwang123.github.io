@@ -1,0 +1,317 @@
+# jemdoc: menu{MENU}{lr.html}, showsource
+
+~~~
+{ Online learning lecture notes}
+[Bartok_online_learning.pdf Online Learning Lecture Notes]
+Gabor Bartok, David Pal, Csaba Szepesvari, Istvan Szita.
+
+[http://arxiv.org/pdf/1204.5721v2.pdf Regret Analysis of Stochastic and Nonstochastic Multi-armed Bandit Problems]
+Sebastien Bubeck and  Nicolas Cesa-Bianchi.
+
+[http://stat.wharton.upenn.edu/~rakhlin/book_draft.pdf Statistical Learning and Sequential Prediction]
+Alexander Rakhlin and Karthik Sridharan.
+
+[http://www-stat.wharton.upenn.edu/~rakhlin/papers/online_learning.pdf Lecture Notes on Online Learning]
+Alexander Rakhlin.
+
+[http://ocobook.cs.princeton.edu/OCObook.pdf Introduction to Online Convex Optimization]
+Elad Hazan.
+
+[http://www.cs.huji.ac.il/~shais/papers/OLsurvey.pdf Online Learning and Online Convex Optimization]
+Shai Shalev-Shwartz.
+
+[http://banditalgs.com/ Bandit Algorithms] Tor Lattimore and Csaba Szepesvari.
+
+[http://dept.stat.lsa.umich.edu/~tewaria/teaching/STATS710-Fall2016/ STATS 710: Sequential Decision Making with mHealth Applications] Susan Muephy and Ambuj Tewari.
+
+[http://slivkins.com/work/MAB-book-Jan17.pdf Introduction to Multi-Armed Bandits] Aleksandrs Slivkins
+
+~~~
+
+~~~
+{ Reinforcement learning lecture notes}
+[http://researchers.lille.inria.fr/~lazaric/Webpage/MVA-RL_Course14.html INRIA Cource]
+Alessandro Lazaric.
+
+[http://www.cs.cmu.edu/~ebrun/15889e/schedule.html CMU course]
+Emma Brunskill.
+
+[https://math.la.asu.edu/~jtaylor/teaching/Fall2012/STP425/lectures/MDP.pdf Markov Decision Processes: Lecture Notes]
+Jay Taylor.
+~~~
+
+~~~
+{ Optimization lecture notes}
+[http://arxiv.org/pdf/1405.4980v2.pdf  Convex Optimization: Algorithms and Complexity]
+Sebastien Bubeck.
+
+[http://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf Convex Optimization]
+Stephen Boyd and Lieven Vandenberghe.
+
+[http://arxiv.org/pdf/1407.1537v4.pdf Linear Coupling: An Ultimate Unification of Gradient and Mirror Decent]
+Zeyuan Allen-Zhu and Lorenzo Orecchia.
+
+[https://arxiv.org/pdf/1606.04838.pdf Optimization Methods for Large-Scale Machine Learning]
+Léon Bottou, Frank E. Curtis, Jorge Nocedal.
+
+[./papers/convex_analysis.pdf Convex Analysis Backgrounds]
+John Duchi.
+
+[./papers/subgradient_methods.pdf Subgradient Methods]
+John Duchi.
+
+[./papers/Duchi16.pdf Introduction to Stochastic Optimization]
+John Duchi.
+
+Convex Analysis.
+Tyrrell Rockafellar.
+
+[http://theory.epfl.ch/vishnoi/Nisheeth-VishnoiFall2014-ConvexOptimization.pdf A Mini-Course on Convex Optimization] Nisheeth K. Vishnoi
+
+[./papers/Optimization_notes.pdf A lecture note on optimization] SVN Vishwanathan
+~~~
+
+~~~
+{Algorithms, theoretical computer science}
+[http://www.cs.cornell.edu/jeh/bookMay2015.pdf  Foundations of Data Science]
+Avrim Blum, John Hopcroft, and Ravindran Kannan.
+
+[http://www.parallel-algorithms-book.com/ Algorithm Design: Parallel and Sequential]
+Guy Blelloch.
+
+[http://www.designofapproxalgs.com/ The Design of Approximation Algorithms]
+David P. Williamson and David B. Shmoys. 
+
+[http://jeffe.cs.illinois.edu/teaching/algorithms/all-models.pdf  Models of Computation]
+Jeff Erickson.
+
+[http://jeffe.cs.illinois.edu/teaching/algorithms/all-algorithms.pdf Algorithms]
+Jeff Erickson.
+
+[http://www.cs.yale.edu/homes/aspnes/classes/469/notes.pdf  Notes on Randomized Algorithms]
+James Aspnes.
+
+[http://www.cs.yale.edu/homes/aspnes/classes/202/notes.pdf  Notes on Discrete Mathematics]
+James Aspnes.
+
+[http://mfleck.cs.illinois.edu/building-blocks/version-1.3/whole-book.pdf Building Blocks for Theoretical Computer Science]
+Margaret M. Fleck.
+
+[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.110.9927&rep=rep1&type=pdf Geometric approximation algorithms]
+Sariel Har-Peled.
+
+[http://cs-www.cs.yale.edu/homes/aspnes/classes/468/notes.pdf Computational Complexity]
+James Aspnes
+
+[https://people.eecs.berkeley.edu/~luca/notes/complexitynotes02.pdf Lecture Notes on Computational Complexity] [https://lucatrevisan.wordpress.com Luca Trevisan]
+
+[http://www.introtcs.org/public/lnotes_book.pdf Intro to Theoretical Computer Science]
+Boaz Barak
+
+[https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15859-f11/www/notes/lpsdp.pdf Lecture notes for CMU's course on Linear Programming and Semidefinite Programming]
+Anupam Gupta and Ryan O’Donnell
+
+[https://homes.cs.washington.edu/~karlin/GameTheoryBook.pdf Game Theory, Alive!]
+Anna R. Karlin and Yuval Peres
+
+[https://courses.csail.mit.edu/6.042/spring17/mcs.pdf Mathematics for Computer Science]
+Eric Lehman, Thomson Leighton and Albert Meyer 
+
+[https://www.ma.utexas.edu/users/ntran/probcombi.pdf Probabilistic Combinatoris]
+Ngoc Mai Tran
+
+~~~
+
+
+~~~ 
+{Learning Theory}
+[http://www.econ.upf.edu/~lugosi/esaimsurvey.pdf Theory of Classification]
+Stephane Boucheron, Olivier Bousquet and Gabor Lugosi.
+
+[slt.pdf Introduction to Statistical Learning Theory]
+Stephane Boucheron, Olivier Bousquet and Gabor Lugosi
+
+[http://www-math.mit.edu/~rigollet/courses/notes.html Mathematics of Machine Learning]
+Philippe Regollet.
+
+[http://people.csail.mit.edu/moitra/docs/bookex.pdf  Algorithmic Aspects of Machine Learning ]
+Ankur Moitra.
+
+[http://www.cs.cmu.edu/~ninamf/courses/806/10-806-index.html Some PAC / Some active learning lecture notes]
+Nina Balcan.
+~~~
+
+~~~
+{Statistics \/ Random Processes \/ Concentration Inequalities}
+
+[http://sites.stat.psu.edu/~dhunter/asymp/lectures/asymp.pdf Notes for a graduate-level course inasymptotics for statisticians]
+David R. Hunter
+
+[http://www.tau.ac.il/~mansour/advanced-agt+ml/scribe5-lower-bound-MAB.pdf Lower Bounds using Information Theory Tools]
+Yishay Mansour.
+
+[http://www-personal.umich.edu/~romanv/teaching/2007-08/235B/lecture-notes.pdf Probability Theory]
+Lecture notes of  R. Vershynin's class. 
+
+[https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.pdf High-Dimensional Probability]
+Roman Vershynin.
+
+[http://www.cs.cornell.edu/~sridharan/concentration.pdf A Gentle Introduction to Concentration Inequalities]
+Karthik Sridharan.
+
+[http://stats.stackexchange.com/questions/21362/understanding-proof-of-mcdiarmids-inequality McDiarmids Inequality]
+
+[http://stanford.edu/class/stats311/Lectures/full_notes.pdf Information Theory and Statistics]
+John Duchi
+
+[http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf Advanced Data Analysis from an Elementary Point of View]
+Cosma Rohilla Shalizi
+
+[http://www.princeton.edu/~rvan/ORF570.pdf  Probability in High Dimension ] 
+Ramon van Handel.
+
+[http://www-math.mit.edu/~rigollet/PDFs/RigNotes17.pdf High Dimensional Statistics]
+Philippe Rigollet.
+
+[https://services.math.duke.edu/~rtd/PTE/PTE4_1.pdf  Probability: Theory and Examples]
+Rick Durrett
+
+[http://www.math.ucsd.edu/~fan/wp/concen.pdf Concentration Inequalities and Martingale Inequalities: A Survey ]
+Fan Chung and Linyuan Lu.
+
+[http://www.springer.com/us/book/9783540484974 (Springer) Concentration Inequalities and Model Selection]
+Pascal Massart.
+
+[http://arxiv.org/pdf/1501.01571v1.pdf An Introduction to Matrix Concentration Inequalities.]
+Joel Tropp.
+
+[http://www-personal.umich.edu/~romanv/papers/non-asymptotic-rmt-plain.pdf Introduction to the non-asymptotic analysis of random matrices]
+Roman Vershynin.
+
+[http://www.stat.math.ethz.ch/~geer/mathstat.pdf Mathematical Statistics]
+Sara van de Geer.
+
+[http://www.stat.math.ethz.ch/~geer/empirical-processes.pdf Empirical Processes]
+Sara van de Geer.
+
+[http://www.stat.cmu.edu/~larry/=stat705/ Intermediate Statistics]
+Larry Wasserman.
+
+[http://www.stat.cmu.edu/~larry/=sml/  Statistical Machine Learning]
+Larry Wasserman.
+
+[http://www.ifp.illinois.edu/~hajek/Papers/randomprocJuly14.pdf Random Processes for Engineers]
+Bruce Hajek.
+
+[https://courses.engr.illinois.edu/ece313/su2015/probabilityJune15.pdf Probability with Engineering Applications]
+Bruce Hajek.
+
+[http://ee.stanford.edu/~gray/sp.pdf An Introduction to statistical signal processing]
+Robert Gray and Lee Davisson.
+
+[http://people.inf.ethz.ch/arbenz/ewp/Lnotes/lsevp.pdf Lecture Notes on
+Solving Large Scale Eigenvalue Problems]
+Peter Arbenz
+
+[http://www.stat.ucla.edu/~arash.amini/teaching/stat200c/notes/matrix_norms.pdf Notes on matrix norms]
+Arash A. Amini
+
+~~~
+
+~~~
+{Programming}
+
+[http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html  Notes on Data Structures and Programming Techniques ]
+James Aspnes.
+
+[http://opendatastructures.org/ods-python-screen.pdf Open Data Structures (in pseudocode)]
+Pat Morin.
+
+[https://progit.org/ Pro Git]
+
+~~~
+
+~~~
+{Others}
+[./pcml_notes.pdf Pattern Classification and Machine Learning]
+Matthias Seeger.
+
+[http://arxiv.org/pdf/0904.3664v1.pdf Introduction to Machine Learning]
+Amnon Shashua.
+
+[https://goodfeli.github.io/dlbook/ Deep Learning]
+Ian Goodfellow, Aaron Courville, and Yoshua Bengio.
+
+[http://www.cs.columbia.edu/~blei/fogm/2015F/ Graphical Models (Princeton) ]
+David Blei.
+
+[http://www.di.ens.fr/~slacoste/teaching/MVA_GM/fall2015/  Graphical Models (INRIA)]
+Guillaume Obozinski, Simon Lacoste-Julien, and Francis Bach.
+
+[http://www.cs.cmu.edu/~epxing/Class/10708/lecture.html Graphical Models (CMU)]
+Eric Xing.
+
+Science Research Writing for Non-Native Speakers of English.  Hilary Glasman-Deal. 
+
+[http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf Mathematical Writing] Donald Knuth.
+~~~
+
+~~~
+{Recommended MOOC courses}
+
+[https://www.udacity.com/wiki/cs212  Design of Computer Programs (Udacity)] 
+Peter Norvig.
+
+[https://www.udacity.com/course/reinforcement-learning--ud600 Reinforcement Learning (Udacity)]
+Michael Littman and Charles Isbell.
+
+[https://www.coursera.org/course/algo  Algorithms: Design and Analysis, Part 1 and Part 2 (coursera)]
+Tim Roughgarden
+
+[https://www.coursera.org/course/nlangp Natural Language Processing (coursera)]
+Michael Collins
+
+[http://j.ee.washington.edu/~bilmes/classes/ee512a_fall_2014/  Advanced Inference in Graphical Models (youtube)]
+Jeff Bilmes
+~~~
+
+
+~~~
+{Bayesian Modeling}
+
+[http://www.math.uconn.edu/~kconrad/blurbs/analysis/entropypost.pdf Probability distribution and maximum entropy]
+Keith Conrad.
+
+[http://arxiv.org/pdf/1412.7392.pdf   Theoretical guarantees for approximate sampling from smooth and log-concave densities]
+Arnak S. Dalalyan.
+
+[http://www.lx.it.pt/~mtf/learning/Bayes_lecture_notes.pdf Lecture Notes on Bayesian Estimation and Classification]
+Mario A. T. Figueired.
+
+[http://www.cs.ubc.ca/~murphyk/Papers/bayesGauss.pdf Conjugate Bayesian analysis of the Gaussian distribution]
+Kevin Murphy.
+
+[http://www.cs.ubc.ca/~murphyk/Papers/learncg.pdf  Fitting a Conditional Linear Gaussian Distribution]
+Kevin Murphy
+
+[https://www.umiacs.umd.edu/~resnik/pubs/LAMP-TR-153.pdf Gibbs Sampling for the uninitiated]
+Philip Resnik and Eric Hardisty
+
+[http://www.icml-2011.org/papers/398_icmlpaper.pdf  Bayesian Learning via Stochastic Gradient Langevin Dynamics]
+Max Welling and Yee Whye Teh.
+
+[http://www.ics.uci.edu/~welling/classnotes/classnotes.html Bayesian Machine Learning lecture notes]
+Max Welling.
+
+[http://pages.uoregon.edu/dlevin/MARKOV/ Markov Chains and Mixing Times]
+David Levin, Yuval Peres, and Elizabeth Wilmer.
+
+[http://stat.columbia.edu/~porbanz/papers/porbanz_BNP_draft.pdf Lecture Notes on Bayesian Nonparametrics]
+Peter Orbanz.
+
+[http://www.springer.com/br/book/9780387733937 (Springer) An Introduction to Bayesian Scientific Computing: Ten Lectures on Subjective Computing]
+Daniela Calvetti and Erkki Somersalo.
+
+[http://www.springer.com/gp/book/9780387922997 (Springer) A First Course in Bayesian Statistical Methods.]
+Peter D. Hoff.
+~~~
