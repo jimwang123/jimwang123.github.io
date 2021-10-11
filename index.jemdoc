@@ -5,23 +5,32 @@
 ~~~
 #{}{img_left}{bejing.jpg}{}{260}{200}{}
 
-I am in my fifth year of CS PhD at Georgia Tech.
-My advisor is [https://www.cc.gatech.edu/~jabernethy9/  Professor Jacob Abernethy]. Before that, I was a research assistant at CSIE Department, National Taiwan University (NTU), where I worked with Prof. [http://www.csie.ntu.edu.tw/~sdlin/ Shou-De Lin] and also worked closely with [http://www.iis.sinica.edu.tw/pages/cjlu Dr. Chi-Jen Lu] at Academia Sinica. My PhD research focuses on theoretical understanding of modern algorithms/techniques in optimization and deep learning (e.g. Polyak\'s  momentum, Nesterov\'s momentum, accelerated gradient methods), as well as designing new algorithms with provable guarantees. I hope to study reinforcement learning in the future! 
+I am a postdoc at Yale University working with [http://www.cs.yale.edu/homes/wibisono/ Professor Andre Wibisono]. I received my CS PhD from Georgia Tech and was very fortunate to be advised by [https://www.cc.gatech.edu/~jabernethy9/  Professor Jacob Abernethy].
+My PhD research focuses on theoretical understanding of modern algorithms/techniques in optimization and deep learning (e.g. Polyak\'s  momentum, Nesterov\'s momentum, accelerated gradient methods), as well as designing new algorithms with provable guarantees. 
+
+I received my M.S. in Communication Engineering and B.S. in Electrical Engineering from National Taiwan University. 
 
 Fun skill 1: I like to run and enjoy long-distance running. I run a lot!
 
 Fun skill 2: I am a top x\% reviewer of NeurIPS 2018, 2019 (x is the number that guarantees a registration of NeurIPS) and a top 33% reviewer of ICML 2020. Give me a paper, I can quickly provide a quite good review!
   
 
-Reviewer of NeurIPS 2016,2017,2018,2019,2020, of ICML 2017,2018,2019,2020,2021 of COLT 2017,2018,2019,2020,2021, of ALT 2017,2018,2019,2020, of ICLR 2021.
+Reviewer of NeurIPS 2016,2017,2018,2019,2020,2021, of ICML 2017,2018,2019,2020,2021, of COLT 2017,2018,2019,2020,2021, of ALT 2017,2018,2019,2020,2022, of ICLR 2021,2022
 ~~
 
 ~~~
 *Publications:  \*Corresponding Author/\*Presenting Author *
 
+[https://arxiv.org/pdf/2106.12923.pdf Understanding Modern Techniques in Optimization: Frank-Wolfe, Nesterov's Momentum, and Polyak's Momentum.] \n
+PhD Dissertation at Georgia Tech. 2021.
+
 [https://arxiv.org/abs/2010.01618 A Modular Analysis of Provable Acceleration via Polyak's momentum: Training a Wide ReLU Network and a Deep Linear Network ] \n
 Jun-Kun Wang, Chi-Heng Lin, and Jacob Abernethy. \n 
 In /International Conference on Machine Learning (ICML) 2021/.
+
+[https://arxiv.org/pdf/2010.01637.pdf Understanding How Over-Parametrization Leads to Acceleration: A case of learning a single teacher neuron] \n
+Jun-Kun Wang and Jacob Abernethy. \n
+In /Asian Conference on Machine Learning (ACML) 2021/.
 
 [https://openreview.net/forum?id=rkeNfp4tPr  Escape Saddle Points Faster with Stochastic Momentum]. \n
 *\**Jun-Kun Wang, Chi-Heng Lin, and Jacob Abernethy. \n
