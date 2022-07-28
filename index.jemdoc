@@ -3,7 +3,7 @@
 #[http://stanford.edu/~jacobm/ Jacob Mattingley] ([jacobm@stanford.edu])
 
 ~~~
-#{}{img_left}{bejing.jpg}{}{260}{200}{}
+{}{img_left}{icml_me.png}{}{260}{200}{}
 
 I am a postdoc at Yale University working with [http://www.cs.yale.edu/homes/wibisono/ Professor Andre Wibisono]. I received my CS PhD from Georgia Tech and was very fortunate to be advised by [https://www.cc.gatech.edu/~jabernethy9/  Professor Jacob Abernethy].
 My PhD research focuses on theoretical understanding of modern algorithms/techniques in optimization and deep learning (e.g. Polyak\'s  momentum, Nesterov\'s momentum, accelerated gradient methods), as well as designing new algorithms with provable guarantees. 
