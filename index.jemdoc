@@ -23,28 +23,31 @@ Email: jun-kun.wang \[at\] yale \[dot\] edu
 ~~~
 *Publications:  \*Corresponding Author/\*Presenting Author *
 
-[https://arxiv.org/pdf/2207.02189.pdf Accelerating Hamiltonian Monte Carlo via Chebyshev Integration Time] \n
+[https://arxiv.org/abs/2210.10019 Towards Understanding GD with Hard and Conjugate Pseudo-labels for Test-Time Adaptation] \n
 Jun-Kun Wang and Andre Wibisono \n
 (Preprint)  arXiv:2207.02189. 2022.
 
+[https://arxiv.org/abs/2207.02189 Accelerating Hamiltonian Monte Carlo via Chebyshev Integration Time] \n
+Jun-Kun Wang and Andre Wibisono \n
+(Preprint)  arXiv:2207.02189. 2022.
 
-[https://arxiv.org/pdf/2206.11872.pdf   Provable Acceleration of Heavy Ball beyond Quadratics for a class of Polyak-Lojasiewicz Functions when the Non-Convexity is Averaged-Out] \n
+[https://arxiv.org/abs/2206.11872   Provable Acceleration of Heavy Ball beyond Quadratics for a class of Polyak-Lojasiewicz Functions when the Non-Convexity is Averaged-Out] \n
 Jun-Kun Wang, Chi-Heng Lin, Andre Wibisono, and Bin Hu \n
 In /International Conference on Machine Learning (ICML) 2022/.
 
 
-[https://arxiv.org/pdf/2111.11309.pdf No-Regret Dynamics in the Fenchel Game: A Unified Framework for Algorithmic Convex Optimization.] \n
+[https://arxiv.org/abs/2111.11309 No-Regret Dynamics in the Fenchel Game: A Unified Framework for Algorithmic Convex Optimization.] \n
 Jun-Kun Wang, Jacob Abernethy, Kfir Y. Levy. \n
 Under submission.
 
-[https://arxiv.org/pdf/2106.12923.pdf Understanding Modern Techniques in Optimization: Frank-Wolfe, Nesterov's Momentum, and Polyak's Momentum.] \n
+[https://arxiv.org/abs/2106.12923 Understanding Modern Techniques in Optimization: Frank-Wolfe, Nesterov's Momentum, and Polyak's Momentum.] \n
 PhD Dissertation at Georgia Tech. 2021.
 
 [https://arxiv.org/abs/2010.01618 A Modular Analysis of Provable Acceleration via Polyak's momentum: Training a Wide ReLU Network and a Deep Linear Network ] \n
 Jun-Kun Wang, Chi-Heng Lin, and Jacob Abernethy. \n 
 In /International Conference on Machine Learning (ICML) 2021/.
 
-[https://arxiv.org/pdf/2010.01637.pdf Understanding How Over-Parametrization Leads to Acceleration: A case of learning a single teacher neuron] \n
+[https://arxiv.org/abs/2010.01637 Understanding How Over-Parametrization Leads to Acceleration: A case of learning a single teacher neuron] \n
 Jun-Kun Wang and Jacob Abernethy. \n
 In /Asian Conference on Machine Learning (ACML) 2021/.
 
@@ -56,19 +59,19 @@ In /International Conference on Learning Representations (ICLR) 2020/.
 *\**Jun-Kun Wang, *\** Chi-Jen Lu, and Shou-De Lin. \n
 In /International Conference on Algorithmic Learning Theory (ALT) 30, 2019/.
 
-[https://arxiv.org/pdf/1811.05831.pdf  Revisiting Projection-Free Optimization For Strongly Convex Constraint Sets] \n
+[https://arxiv.org/abs/1811.05831  Revisiting Projection-Free Optimization For Strongly Convex Constraint Sets] \n
 Jarrid Rector-Brooks, Jun-Kun Wang, and Barzan Mozafari. \n
 In /(AAAI) 33, 2019/.
 
-[https://arxiv.org/pdf/1807.10455.pdf Acceleration through Optimistic No-Regret Dynamics] \n
+[https://arxiv.org/abs/1807.10455 Acceleration through Optimistic No-Regret Dynamics] \n
 *\**Jun-Kun Wang and Jacob Abernethy. \n 
 In /Annual Conference on Neural Information Processing Systems (NeurIPS)/ 2018 (Spotlight) [https://arxiv.org/pdf/1807.10455.pdf paper]
 
-[http://proceedings.mlr.press/v75/abernethy18a/abernethy18a.pdf Faster Rates for Convex-Concave Games] \n
+[http://proceedings.mlr.press/v75/abernethy18a Faster Rates for Convex-Concave Games] \n
 (name order) Jacob Abernethy, Kevin Lai, Kfir Levy, and *\**Jun-Kun Wang. \n
 In /Computational Learning Theory (COLT)/ 2018.
 
-[./papers/nips_2017.pdf On Frank-Wolfe and Equilibrium Computation]\n
+[https://papers.nips.cc/paper/2017/hash/7371364b3d72ac9a3ed8638e6f0be2c9-Abstract.html On Frank-Wolfe and Equilibrium Computation]\n
 Jacob Abernethy and *\**Jun-Kun Wang. \n
 In /Annual Conference on Neural Information Processing Systems
 (NeurIPS)/ 2017 (Spotlight).
@@ -82,7 +85,7 @@ In /IEEE International Conference on Data Science and Advanced Analytics (DSAA) 
 In /IEEE International Conference on Data Science and Advanced Analytics (DSAA) 3, 2016/. 
 
 
-[http://jmlr.org/proceedings/papers/v32/wangf14.pdf  Robust Inverse Covariance Estimation under Noisy Measurements] \n *\**Jun-Kun Wang, Shou-De Lin.\n
+[https://proceedings.mlr.press/v32/wangf14.html  Robust Inverse Covariance Estimation under Noisy Measurements] \n *\**Jun-Kun Wang, Shou-De Lin.\n
 In /International Conference on Machine Learning (ICML) 31, 2014/.
 [http://jmlr.org/proceedings/papers/v32/wangf14.pdf paper]
 [./papers/slide_icml14.pdf slide]
