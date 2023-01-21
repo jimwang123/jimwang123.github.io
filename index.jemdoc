@@ -77,8 +77,8 @@ In COLT /(Computational Learning Theory)/, 2018.
 
 [https://papers.nips.cc/paper/2017/hash/7371364b3d72ac9a3ed8638e6f0be2c9-Abstract.html On Frank-Wolfe and Equilibrium Computation]\n
 Jacob Abernethy and *\**Jun-Kun Wang. \n
-In NeurIPS (/Annual Conference on Neural Information Processing Systems/), 2017 
-(Spotlight).
+In NeurIPS (/Annual Conference on Neural Information Processing Systems/), 2017. 
+(Spotlight)
 [./papers/nips_2017.pdf paper] [./papers/nips17_supp.pdf supplementary]
 
 [./papers/dsaa2016_admm.pdf Efficient Sampling-based ADMM for Distributed Data] \n *\**Jun-Kun Wang, Shou-De Lin.\n
