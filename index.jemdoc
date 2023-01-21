@@ -23,18 +23,21 @@ Email: jun-kun.wang \[at\] yale \[dot\] edu
 ~~~
 *Publications:  \*Corresponding Author/\*Presenting Author *
 
-[https://arxiv.org/abs/2210.10019 Towards Understanding GD with Hard and Conjugate Pseudo-labels for Test-Time Adaptation] \n
-Jun-Kun Wang and Andre Wibisono \n
-(Preprint)  arXiv:2207.02189. 2022.
-
 [https://arxiv.org/abs/2207.02189 Accelerating Hamiltonian Monte Carlo via Chebyshev Integration Time] \n
 Jun-Kun Wang and Andre Wibisono \n
-(Preprint)  arXiv:2207.02189. 2022.
+In ICLR 2023, /(International Conference on Learning Representations)/.
+
+[https://openreview.net/forum?id=yYbhKqdi7Hz Continuized Acceleration for Quasar Convex Functions in Non-Convex Optimization] \n
+Jun-Kun Wang and Andre Wibisono \n
+In ICLR 2023, /(International Conference on Learning Representations)/.
+
+[https://arxiv.org/abs/2210.10019 Towards Understanding GD with Hard and Conjugate Pseudo-labels for Test-Time Adaptation] \n
+Jun-Kun Wang and Andre Wibisono \n
+In ICLR 2023, /(International Conference on Learning Representations)/.
 
 [https://arxiv.org/abs/2206.11872   Provable Acceleration of Heavy Ball beyond Quadratics for a class of Polyak-Lojasiewicz Functions when the Non-Convexity is Averaged-Out] \n
 Jun-Kun Wang, Chi-Heng Lin, Andre Wibisono, and Bin Hu \n
-In /International Conference on Machine Learning (ICML) 2022/.
-
+In ICML 2022, /(International Conference on Machine Learning)/.
 
 [https://arxiv.org/abs/2111.11309 No-Regret Dynamics in the Fenchel Game: A Unified Framework for Algorithmic Convex Optimization.] \n
 Jun-Kun Wang, Jacob Abernethy, Kfir Y. Levy. \n
@@ -45,19 +48,19 @@ PhD Dissertation at Georgia Tech. 2021.
 
 [https://arxiv.org/abs/2010.01618 A Modular Analysis of Provable Acceleration via Polyak's momentum: Training a Wide ReLU Network and a Deep Linear Network ] \n
 Jun-Kun Wang, Chi-Heng Lin, and Jacob Abernethy. \n 
-In /International Conference on Machine Learning (ICML) 2021/.
+In ICML 2021, /(International Conference on Machine Learning)/.
 
 [https://arxiv.org/abs/2010.01637 Understanding How Over-Parametrization Leads to Acceleration: A case of learning a single teacher neuron] \n
 Jun-Kun Wang and Jacob Abernethy. \n
-In /Asian Conference on Machine Learning (ACML) 2021/.
+In ACML 2021, /(Asian Conference on Machine Learning)/.
 
 [https://openreview.net/forum?id=rkeNfp4tPr  Escape Saddle Points Faster with Stochastic Momentum]. \n
 *\**Jun-Kun Wang, Chi-Heng Lin, and Jacob Abernethy. \n
-In /International Conference on Learning Representations (ICLR) 2020/.
+In ICLR 2020, /(International Conference on Learning Representations)/.
 
 [http://proceedings.mlr.press/v98/wang19b/wang19b.pdf Online Linear Optimization with Sparsity Constraints] \n
 *\**Jun-Kun Wang, *\** Chi-Jen Lu, and Shou-De Lin. \n
-In /International Conference on Algorithmic Learning Theory (ALT) 30, 2019/.
+In ALT 2019, /(International Conference on Algorithmic Learning Theory).
 
 [https://arxiv.org/abs/1811.05831  Revisiting Projection-Free Optimization For Strongly Convex Constraint Sets] \n
 Jarrid Rector-Brooks, Jun-Kun Wang, and Barzan Mozafari. \n
@@ -65,28 +68,28 @@ In /(AAAI) 33, 2019/.
 
 [https://arxiv.org/abs/1807.10455 Acceleration through Optimistic No-Regret Dynamics] \n
 *\**Jun-Kun Wang and Jacob Abernethy. \n 
-In /Annual Conference on Neural Information Processing Systems (NeurIPS)/ 2018 (Spotlight) [https://arxiv.org/pdf/1807.10455.pdf paper]
+In NeurIPS 2018, /Annual Conference on Neural Information Processing Systems/ 
+(Spotlight) [https://arxiv.org/pdf/1807.10455.pdf paper]
 
 [http://proceedings.mlr.press/v75/abernethy18a Faster Rates for Convex-Concave Games] \n
 (name order) Jacob Abernethy, Kevin Lai, Kfir Levy, and *\**Jun-Kun Wang. \n
-In /Computational Learning Theory (COLT)/ 2018.
+In COLT 2018, /(Computational Learning Theory)/.
 
 [https://papers.nips.cc/paper/2017/hash/7371364b3d72ac9a3ed8638e6f0be2c9-Abstract.html On Frank-Wolfe and Equilibrium Computation]\n
 Jacob Abernethy and *\**Jun-Kun Wang. \n
-In /Annual Conference on Neural Information Processing Systems
-(NeurIPS)/ 2017 (Spotlight).
+In NeurIPS 2017, /Annual Conference on Neural Information Processing Systems/ 
+(Spotlight).
 [./papers/nips_2017.pdf paper] [./papers/nips17_supp.pdf supplementary]
 
 [./papers/dsaa2016_admm.pdf Efficient Sampling-based ADMM for Distributed Data] \n *\**Jun-Kun Wang, Shou-De Lin.\n
-In /IEEE International Conference on Data Science and Advanced Analytics (DSAA) 3, 2016/. [https://github.com/j123456/dis_sdcaadmm code]
+In DSAA 2016 /IEEE International Conference on Data Science and Advanced Analytics/. [https://github.com/j123456/dis_sdcaadmm code]
 
 [./papers/dsaa2016_plsi.pdf Parallel Least-Squares Policy Iteration] \n
 *\**Jun-Kun Wang, Shou-De Lin. \n
-In /IEEE International Conference on Data Science and Advanced Analytics (DSAA) 3, 2016/. 
-
+In DSAA 2016 /IEEE International Conference on Data Science and Advanced Analytics/. 
 
 [https://proceedings.mlr.press/v32/wangf14.html  Robust Inverse Covariance Estimation under Noisy Measurements] \n *\**Jun-Kun Wang, Shou-De Lin.\n
-In /International Conference on Machine Learning (ICML) 31, 2014/.
+In ICML 2014, /(International Conference on Machine Learning)/.
 [http://jmlr.org/proceedings/papers/v32/wangf14.pdf paper]
 [./papers/slide_icml14.pdf slide]
 ~~~
