@@ -55,7 +55,7 @@ Jun-Kun Wang and Jacob Abernethy. \n
 In ACML /(Asian Conference on Machine Learning)/, 2021.
 
 [https://openreview.net/forum?id=rkeNfp4tPr  Escape Saddle Points Faster with Stochastic Momentum]. \n
-*\**Jun-Kun Wang, Chi-Heng Lin, and Jacob Abernethy. \n
+Jun-Kun Wang, Chi-Heng Lin, and Jacob Abernethy. \n
 In ICLR /(International Conference on Learning Representations)/, 2020.
 
 [http://proceedings.mlr.press/v98/wang19b/wang19b.pdf Online Linear Optimization with Sparsity Constraints] \n
@@ -88,9 +88,8 @@ In DSAA /(IEEE International Conference on Data Science and Advanced Analytics)/
 *\**Jun-Kun Wang, Shou-De Lin. \n
 In DSAA /(IEEE International Conference on Data Science and Advanced Analytics)/,
 2016.
-[https://proceedings.mlr.press/v32/wangf14.html  Robust Inverse Covariance 
 
-Estimation under Noisy Measurements] \n *\**Jun-Kun Wang, Shou-De Lin.\n
+[https://proceedings.mlr.press/v32/wangf14.html Robust Inverse Covariance Estimation under Noisy Measurements] \n *\**Jun-Kun Wang, Shou-De Lin.\n
 In ICML /(International Conference on Machine Learning)/, 2014.
 [http://jmlr.org/proceedings/papers/v32/wangf14.pdf paper]
 [./papers/slide_icml14.pdf slide]
