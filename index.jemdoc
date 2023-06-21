@@ -23,6 +23,10 @@ Email: jun-kun.wang \[at\] yale \[dot\] edu
 ~~~
 *Publications:  \*Corresponding Author/\*Presenting Author *
 
+[ No-Regret Dynamics in the Fenchel Game: A Unified Framework for Algorithmic Convex Optimization.] \n
+Jun-Kun Wang, Jacob Abernethy, Kfir Y. Levy. \n
+To appear in Mathematical Programming 2023 [https://arxiv.org/abs/2111.11309 arXiv]
+
 [https://arxiv.org/abs/2207.02189 Accelerating Hamiltonian Monte Carlo via Chebyshev Integration Time] \n
 Jun-Kun Wang and Andre Wibisono \n
 In ICLR /(International Conference on Learning Representations)/, 2023.
@@ -38,10 +42,6 @@ In ICLR /(International Conference on Learning Representations)/, 2023.
 [https://arxiv.org/abs/2206.11872   Provable Acceleration of Heavy Ball beyond Quadratics for a class of Polyak-Lojasiewicz Functions when the Non-Convexity is Averaged-Out] \n
 Jun-Kun Wang, Chi-Heng Lin, Andre Wibisono, and Bin Hu \n
 In ICML /(International Conference on Machine Learning)/, 2022.
-
-[https://arxiv.org/abs/2111.11309 No-Regret Dynamics in the Fenchel Game: A Unified Framework for Algorithmic Convex Optimization.] \n
-Jun-Kun Wang, Jacob Abernethy, Kfir Y. Levy. \n
-Under submission.
 
 [https://arxiv.org/abs/2106.12923 Understanding Modern Techniques in Optimization: Frank-Wolfe, Nesterov's Momentum, and Polyak's Momentum.] \n
 PhD Dissertation at Georgia Tech. 2021.
