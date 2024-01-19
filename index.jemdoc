@@ -15,14 +15,6 @@ I was a postdoc at Yale University working with [http://www.cs.yale.edu/homes/wi
 
 Email: jkw005 \[at] ucsd  \[dot\] edu
 
-~~~
-
-~~~
-* Teaching
-
-Winter 2024 DSC 211 Introduction to Optimization
-
-Spring 2024 ECE 273 Convex Optimization and Applications
 
 
 ~~~
@@ -37,6 +29,15 @@ Feel free to drop me an email with your CV.
 
 ~~~
 
+~~~
+
+* Teaching: *
+
+Winter 2024 DSC 211 Introduction to Optimization
+
+Spring 2024 ECE 273 [ECE273.html Convex Optimization and Applications]
+
+~~~
 
 
 ~~~
@@ -114,14 +115,4 @@ In ICML /(International Conference on Machine Learning)/, 2014.
 [./papers/slide_icml14.pdf slide]
 ~~~
 
-~~~
-* Techical Reports: *
 
-[1] [https://arxiv.org/pdf/2010.01449  Quickly Finding a Benign Region via Heavy Ball Momentum in Non-Convex Optimization ] \n
-Jun-Kun Wang, Jacob Abernethy. \n
-arXiv 2020.
-~~~
-
-~~~
-Reviewer of NeurIPS 2016,2017,2018,2019,2020,2021,2022, of ICML 2017,2018,2019,2020,2021,2022, of COLT 2017,2018,2019,2020,2021,2022, of ALT 2017,2018,2019,2020,2022, of ICLR 2021,2022
-~~~
