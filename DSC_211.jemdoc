@@ -1,0 +1,184 @@
+# jemdoc: menu{MENU}{DSC211_main.html}, addcss{jemdocCustom.css}
+# jemdoc: title{DSC211 - UC San Diego}
+
+= DSC 211, Winter 2024 -- Introduction to Optimization
+
+
+*Lectures*: Tuesdays/Thursdays 5:00 pm -6:20 pm PST 
+
+*Location*: PCYNH (Pepper Canyon Hall)  121
+
+*Instructors*: 
+- [https://jimwang123.github.io Jun-Kun Wang] (jkw005 at ucsd.edu)
+- Yuan (Merlin) Chang 
+- Marialena Sfyraki
+
+
+*Office hours*:
+- Jun-Kun Wang  (3PM-4PM, Jacobs Hall Room 6404)
+- Yuan (Merlin) Chang  (Monday 1PM-2PM, HDSI Room 336)
+- Marialena Sfyraki  (Wednesday 5PM-6PM, HDSI Room 355) 
+
+*Syllabus*: [https://canvas.ucsd.edu/courses/51990 Available on Canvas]
+
+== Course description
+This course covers the theoretical and algorithmic foundations of optimization.
+We will walk through classical optimization algorithms such as Gradient Descent, Coordinate
+Descent, the Frank-Wolfe Method, Accelerated Methods, Mirror Descent, Stochastic Gradient
+Descent, and Online Gradient Descent. We will put particular emphasis on understanding the
+behaviors and the convergence rate guarantees of these algorithms, as well as the tools and techniques
+to analyze them. We will also cover some convex analysis and duality theory. Students will
+learn the basic foundations of deterministic convex optimization, stochastic optimization, online
+convex optimization, min-max optimization, and non-convex optimization
+
+
+A tentative list of topics that we will cover include
+
+- Mathematical background and Gradient Flow.
+- Convexity. 
+- Gradient Descent for smooth, smooth and strongly convex functions.
+- Reduction
+- Projected Gradient Descent and Frank-Wolfe Method.
+- Coordinate Descent
+- Duality Theory; Stochastic Dual Coordinate Ascent
+- Mirror Descent
+- SGD
+- SGD and variance reduction
+- Online Convex Optimization
+- Min-Max Optimization
+- Acceleration via the Chebyshev Polynomial
+- Momentum Methods
+- Nonconvex optimization 
+
+
+Students are expected to sign up on Piazza and GradeScope [Code: B2XR7X]. Discussions will happen on Piazza. The homework should be turned in and will be graded on GradeScope. Important announcements will be made via Canvas. 
+
+
+== Pre-requisites
+This course assumes basic knowledge in linear algebra and calculus. 
+
+== Course grade
+- 40\% homework (5 problem sets; will drop the lowest score)
+- 25\% midterm exam (in class; one page of hand-written cheat sheet allowed)
+- 25\% final project
+- 10\% scribing and 5\% extra credit for course attendance/participation
+
+
+== Schedule
+
+~~~
+{}{table}{schedule}
+Week | Date   |   Lecture                                | Scribe note | Assignments ||
+1    | Jan 09 |   L1: Introduction & Course Logistics    |         | HW1 out   ||
+     | Jan 11 |   L2: Mathematical background and Gradient Flow     |  [./DSC211_Scribe/scribe2.pdf scribe2]     |   ||
+2    | Jan 16 |   L3: Convexity and Gradient Descent            |    |         ||
+     | Jan 18 |   L4: Gradient Descent and Reduction         |        |     ||
+3    | Jan 23 |   L5: Projected Gradient Descent and Frank-Wolfe Method |  | HW1 due; HW2 out ||
+     | Jan 25 |   L6: Coordinate Descent         |          |   ||
+4    | Jan 30 |   L7: Intoduction to Stochastic Optimization   |  |           ||
+     | Feb 01 |   L8: SGD variants  |  | HW2 due; HW3 out ||
+5    | Feb 06 |   L9: Duality Theory    |  |           ||
+     | Feb 08 |   L10: Duality Theory and Stochastic Dual Coordinate Ascent  |  |  ||
+6    | Feb 13 |   L11: Mirror Descent    |  |  HW3 due; HW4 out ||
+     | Feb 15 |   L12: Online Convex Optimization                   |     |       ||
+7    | Feb 20 |   L13: Online Convex Optimization              |      |   ||
+     | Feb 22 |   L14: Min-Max Optimization          |  | HW4 due; * Checkpoint Report Due *      ||
+8    | Feb 27 |   L15  Min-Max Optimization |        |         ||
+     | Feb 29 |   * Midterm *    |       |     ||
+9    | Mar 05 |   L16: Acceleration via Chebyshev Polynomial |  |  HW5 out         ||
+     | Mar 07 |   L17: Momentum Methods  |        |      ||
+10   | Mar 12 |   L18: Introduction to Non-Convex Optimization   |      |      ||
+     | Mar 14 |   L19: Concluding remarks   |   |        ||
+11   | Mar 21 | Project Presentation        |           | * Written Report Due *    ||
+ 
+~~~
+
+== Final Projects
+
+
+Final project: You can form a group of size up to 3 members for the final project. 
+
+* Grading of the final project: *  1\% for a checkpoint report, 12\% for a written report, 12 \% for an oral presentation.  
+
+* Written report of the final project : *
+
+- Describe an optimization paper in detail using your own words. The paper you focus on should be a peer\-reviewed paper from top venues such as ICML, NeurIPS, ICLR, COLT, JMLR, Mathematical Programming, or SIAM Journal on Optimization from the past three years. Focusing on papers not from these venues requires discussion with the instructor and obtaining approval first.
+
+Students are required to *submit a typed write-up* for the final project consisting of 4-6 pages (the list of references does not count toward the page limit). Submitting a report that is less than 4 full pages (references excluded) will result in a score deduction.  The write-up must contain a significant theoretical component. Please use the Latex template provided in this link [https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles Latex Template]
+
+The report should include * the motivation, a description of the algorithm, the underlying algorithmic design principles, and a clear reproduction or summary of the theoretical analysis *. 
+When reproducing the proof, ask yourself: What is the most essential part of the analysis? Can you significantly simplify the proofs without trivializing the results? Because of the page limit, you should avoid presenting every step in the analysis in your written report. Focus on conveying the logical flow and key steps of the theoretical analysis.
+
+Students are encouraged to perform simple simulations to test the proposed algorithm(s) in the paper
+and report their findings in the report, if the paper includes experiments. Code snippets and additional simulation results can be provided in the appendix (after the list of references if any) and do not contribute to the page limit, but the instructor does not have an obligation to read the appendix. The simulations of the method(s) in the paper can be conducted using small, toy, and synthetic data created by your own to showcase the convergent behavior of the algorithm(s) and their baselines. Students do not need to precisely follow the setting nor use the same data as described in the paper. Some papers are purely theoretical without any numerical experiments. In this case, students are still encouraged to create their own synthetic data or come up with a simulation scenario to verify the theoretical results. However, the evaluation of the written report will be focused on whether you can present the motivation, the algorithm, the idea behind the algorithm design, and reproducing/summarizing the analysis clearly. 
+Simulations are optional and will only be considered for the assessment if the other aforementioned components of the written report are not strong.  
+
+* The due date of the written report is Thursday, March 21, 2024, 6:00 pm.  *
+
+* Additional Tasks (Optional) * include (1)
+identifying the limitations and proposing a way to overcome them (theoretically and\/or empirically), (2) or improving the results in the paper, such as obtaining a tighter bound or modifying the algorithms to be faster (theoretically and\/or empirically), (3) or proposing a new algorithm in the same setting. Final projects which include an additional task with a  * solid * result may receive extra credits.
+If an additional task is conducted, students should highlight what they have accomplished in the main text of the written report and may provide further detail in the appendix after Page 6, but the instructor does not have an obligation to read the appendix. 
+
+* Final presentation for the project: *
+
+The session for oral presentations is scheduled for * Thursday, March 21, 2024, from 7:00 pm to 9:59 pm *  (the final exam time).  
+Each team has 8 minutes (subject to change) for their presentation and 1 minute (subject to change) for the Q&A.  A team can earn extra credits in their oral presentation by asking a good question or making a constructive remark on the presentations of other teams during the Q&A.
+
+Given the limited time available for each oral presentation, each team should not walk through the proof but a discussion of theoretical results (e.g. convergence rates) and\/or empirical results is encouraged. 
+The first couple of minutes/slides should be allocated to describe the setup as clear as possible and\/or provide necessary background so that the audience can be on the same page. Subsequently, the main results of the paper should be clearly summarized. If you think you have completed an additional task listed in Additional Tasks above, make sure to allocate at least one\-third of time to highlight what you have accomplished. 
+
+* Checkpoint report of the Final Project: *
+In the checkpoint report, students are required to include the following information:
+
+- The name of each team member.
+- The title of the paper that you will focus on.
+
+It is emphasized that every member in the team should submit a checkpoint report. The checkpoint report is due on * Feb. 23 Friday at 5PM *.
+
+
+
+== References
+
+There is no required textbooks. The course will draw some of the materials from the following references. All the following materials are accessible online or accessible via UCSD library online portal. 
+
+- Sebastien Bubeck [https://arxiv.org/pdf/1405.4980.pdf Convex Optimization: Algorithms and Complexity]. 
+
+- Nisheeth K. Vishnoi [https://convex-optimization.github.io/  Algorithms for Convex Optimization]
+
+- Francesco Orabona [https://arxiv.org/pdf/1912.13213.pdf A Modern Introduction to Online Learning]
+
+- Aaron Sidford [https://drive.google.com/file/d/1BfMkt2glaZpJGwg7gwsJw9T_XxH3o8gx/view Optimization Algorithms]
+
+- Stephen Boyd and Lieven Vandenberghe [https://web.stanford.edu/~boyd/cvxbook/ Convex Optimization]
+
+- Yin Tat Lee and Santosh Vempala [https://github.com/YinTat/optimizationbook/blob/main/main.pdf Techniques in Optimization and Sampling]
+
+- Arkadi Nemirovski [https://www2.isye.gatech.edu/~nemirovs/LMCOLN2022Fall.pdf Lectures on Modern Convex Optimization]
+
+- Elad Hazan [https://arxiv.org/pdf/1909.05207.pdf Introduction to Online Convex Optimization]
+
+- Alexandre d'Aspremont, Damien Scieur, Adrien Taylor [https://arxiv.org/abs/2101.09545.pdf Acceleration Methods]
+
+- Benjamin Recht and Stephen J. Wright [https://people.eecs.berkeley.edu/~brecht/opt4ml_book/ Optimization for Modern Data Analysis]
+
+- Guanghui Lan [https://link.springer.com/book/10.1007/978-3-030-39568-1 First-order and Stochastic Optimization Methods for Machine Learning]
+
+- Yurii Nesterov [https://link.springer.com/book/10.1007/978-1-4419-8853-9 Introductory Lectures on Convex Optimization]
+
+- Amir Beck [https://epubs.siam.org/doi/book/10.1137/1.9781611977622 Introduction to Nonlinear Optimization - Theory, Algorithms and Applications]
+
+== Acknowledgments
+
+The design of this course is inspired by the following excellent courses:
+
+- [https://ee227c.github.io/ Convex Optimization and Approximation] at UC Berkeley by Moritz Hardt. 
+
+- [https://yuxinchen2020.github.io/large_scale_optimization/index.html Large-Scale Optimization for Data Science] at University of Pennsylvania by Yuxin Chen. 
+
+- [https://optmlclass.github.io/ Optimization for Machine Learning] at Boston University by Ashok Cutkosky.
+
+The course webpage and the course policy is inspired by the following excellent courses:
+
+- [https://zhengy09.github.io/ECE285/ece285.html Semidefinite and Sum-of-squares Optimization] at UC San Diego by Yang Zheng
+- [https://mltheory.github.io/CS7545/ Machine Learning Theory] at Georgia Tech by Jacob Abernethy
+- [https://nanjiang.cs.illinois.edu/cs542/ Statistical Reinforcement Learning] at UIUC by Nan Jiang
