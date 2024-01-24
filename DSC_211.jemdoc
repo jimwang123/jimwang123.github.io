@@ -157,6 +157,8 @@ There is no required textbooks. The course will draw some of the materials from 
 
 - Elad Hazan [https://arxiv.org/pdf/1909.05207.pdf Introduction to Online Convex Optimization]
 
+- John Duchi [https://stanford.edu/~jduchi/PCMIConvex/Duchi16.pdf Introductory Lectures on Stochastic Convex Optimization]
+
 - Alexandre d'Aspremont, Damien Scieur, Adrien Taylor [https://arxiv.org/abs/2101.09545.pdf Acceleration Methods]
 
 - Benjamin Recht and Stephen J. Wright [https://people.eecs.berkeley.edu/~brecht/opt4ml_book/ Optimization for Modern Data Analysis]
@@ -176,6 +178,8 @@ The design of this course is inspired by the following excellent courses:
 - [https://yuxinchen2020.github.io/large_scale_optimization/index.html Large-Scale Optimization for Data Science] at University of Pennsylvania by Yuxin Chen. 
 
 - [https://optmlclass.github.io/ Optimization for Machine Learning] at Boston University by Ashok Cutkosky.
+
+- [https://web.stanford.edu/~sidford/courses/19fa_opt_theory/fa19_opt_theory.html Introduction to Optimization Theory] at Standford by Aaron Sidford
 
 The course webpage and the course policy is inspired by the following excellent courses:
 
