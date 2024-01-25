@@ -151,6 +151,8 @@ There is no required textbooks. The course will draw some of the materials from 
 
 - Stephen Boyd and Lieven Vandenberghe [https://web.stanford.edu/~boyd/cvxbook/ Convex Optimization]
 
+- Shai Shalev-Shwartz [https://www.cs.huji.ac.il/~shais/papers/OLsurvey.pdf Online Learning and Online Convex Optimization]
+
 - Yin Tat Lee and Santosh Vempala [https://github.com/YinTat/optimizationbook/blob/main/main.pdf Techniques in Optimization and Sampling]
 
 - Arkadi Nemirovski [https://www2.isye.gatech.edu/~nemirovs/LMCOLN2022Fall.pdf Lectures on Modern Convex Optimization]
