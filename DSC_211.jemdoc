@@ -72,7 +72,7 @@ Week | Date   |   Lecture                                | Scribe note | Assignm
 1    | Jan 09 |   L1: Introduction & Course Logistics    |         | HW1 out   ||
      | Jan 11 |   L2: Mathematical background and Gradient Flow     |  [./DSC211_Scribe/scribe2.pdf scribe2]     |   ||
 2    | Jan 16 |   L3: Convexity and Gradient Descent            | [./DSC211_Scribe/scribe3.pdf scribe3]   |         ||
-     | Jan 18 |   L4: Gradient Descent and Reduction         |        |     ||
+     | Jan 18 |   L4: Gradient Descent and Reduction         |   [./DSC211_Scribe/scribe4.pdf scribe4]     |     ||
 3    | Jan 23 |   L5: Projected Gradient Descent and Frank-Wolfe Method |  | HW1 due; HW2 out ||
      | Jan 25 |   L6: Coordinate Descent         |          |   ||
 4    | Jan 30 |   L7: Intoduction to Stochastic Optimization   |  |           ||
