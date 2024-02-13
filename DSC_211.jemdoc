@@ -73,9 +73,9 @@ Week | Date   |   Lecture                                | Scribe note | Assignm
      | Jan 11 |   L2: Mathematical background and Gradient Flow     |  [./DSC211_Scribe/scribe2.pdf scribe2]     |   ||
 2    | Jan 16 |   L3: Convexity and Gradient Descent            | [./DSC211_Scribe/scribe3.pdf scribe3]   |         ||
      | Jan 18 |   L4: Reduction         |   [./DSC211_Scribe/scribe4.pdf scribe4]     |     ||
-3    | Jan 23 |   L5: Projected Gradient Descent and Frank-Wolfe Method |  | HW1 due; HW2 out ||
-     | Jan 25 |   L6: Coordinate Descent         |          |   ||
-4    | Jan 30 |   L7: Intoduction to Stochastic Optimization   |  |           ||
+3    | Jan 23 |   L5: Projected Gradient Descent and Frank-Wolfe Method | [./DSC211_Scribe/scribe5.pdf scribe5] | HW1 due; HW2 out ||
+     | Jan 25 |   L6: Coordinate Descent         |    [./DSC211_Scribe/scribe6.pdf scribe6]      |   ||
+4    | Jan 30 |   L7: Intoduction to Stochastic Optimization   | [./DSC211_Scribe/scribe7.pdf scribe7] |           ||
      | Feb 01 |   L8: SGD variants  |  | HW2 due; HW3 out ||
 5    | Feb 06 |   L9: Duality Theory I: Lagrangian and Weak Duality     |  |           ||
      | Feb 08 |   L10: Duality Theory II: KKT conditions and Strong Duality  |  |  ||
