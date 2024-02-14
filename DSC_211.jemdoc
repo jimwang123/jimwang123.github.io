@@ -79,7 +79,7 @@ Week | Date   |   Lecture                                | Scribe note | Assignm
      | Feb 01 |   L8: SGD variants  |  [./DSC211_Scribe/scribe8.pdf scribe8] | HW2 due; HW3 out ||
 5    | Feb 06 |   L9: Duality Theory I: Lagrangian and Weak Duality     |  
 [./DSC211_Scribe/scribe9.pdf scribe9] |           ||
-     | Feb 08 |   L10: Duality Theory II: KKT conditions and Strong Duality  |  |  ||
+     | Feb 08 |   L10: Duality Theory II: KKT conditions and Strong Duality  |  [./DSC211_Scribe/scribe10.pdf scribe10] |  ||
 6    | Feb 13 |   L11: Duality Theory III: Conjugate functions and SDCA    |  |  HW3 due; HW4 out ||
      | Feb 15 |   L12: Mirror Descent                   |     |       ||
 7    | Feb 20 |   L13: Online Convex Optimization              |      |   ||
