@@ -77,7 +77,8 @@ Week | Date   |   Lecture                                | Scribe note | Assignm
      | Jan 25 |   L6: Coordinate Descent         |    [./DSC211_Scribe/scribe6.pdf scribe6]      |   ||
 4    | Jan 30 |   L7: Intoduction to Stochastic Optimization   | [./DSC211_Scribe/scribe7.pdf scribe7] |           ||
      | Feb 01 |   L8: SGD variants  |  [./DSC211_Scribe/scribe8.pdf scribe8] | HW2 due; HW3 out ||
-5    | Feb 06 |   L9: Duality Theory I: Lagrangian and Weak Duality     |  |           ||
+5    | Feb 06 |   L9: Duality Theory I: Lagrangian and Weak Duality     |  
+[./DSC211_Scribe/scribe9.pdf scribe9] |           ||
      | Feb 08 |   L10: Duality Theory II: KKT conditions and Strong Duality  |  |  ||
 6    | Feb 13 |   L11: Duality Theory III: Conjugate functions and SDCA    |  |  HW3 due; HW4 out ||
      | Feb 15 |   L12: Mirror Descent                   |     |       ||
