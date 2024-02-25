@@ -81,7 +81,7 @@ Week | Date   |   Lecture                                | Scribe note | Assignm
 [./DSC211_Scribe/scribe9.pdf scribe9] |           ||
      | Feb 08 |   L10: Duality Theory II: KKT conditions and Strong Duality  |  [./DSC211_Scribe/scribe10.pdf scribe10] |  ||
 6    | Feb 13 |   L11: Duality Theory III: Conjugate functions and SDCA    | [./DSC211_Scribe/scribe11.pdf scribe11] |  HW3 due; HW4 out ||
-     | Feb 15 |   L12: Mirror Descent     [./DSC211_Scribe/scribe12.pdf scribe12]              |     |       ||
+     | Feb 15 |   L12: Mirror Descent                   |  [./DSC211_Scribe/scribe12.pdf scribe12]   |       ||
 7    | Feb 20 |   L13: Online Convex Optimization              |      |   ||
      | Feb 22 |   L14: Online Convex Optimization          |  | HW4 due; * Checkpoint Report Due *      ||
 8    | Feb 27 |   L15  Min-Max Optimization |        |         ||
