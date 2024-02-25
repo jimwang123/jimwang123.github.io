@@ -83,7 +83,7 @@ Week | Date   |   Lecture                                | Scribe note | Assignm
 6    | Feb 13 |   L11: Duality Theory III: Conjugate functions and SDCA    | [./DSC211_Scribe/scribe11.pdf scribe11] |  HW3 due; HW4 out ||
      | Feb 15 |   L12: Mirror Descent                   |  [./DSC211_Scribe/scribe12.pdf scribe12]   |       ||
 7    | Feb 20 |   L13: Online Convex Optimization              |      |   ||
-     | Feb 22 |   L14: Online Convex Optimization          |  | HW4 due; * Checkpoint Report Due *      ||
+     | Feb 22 |   L14: Online Convex Optimization          | [./DSC211_Scribe/scribe14.pdf scribe14] | HW4 due; * Checkpoint Report Due *      ||
 8    | Feb 27 |   L15  Min-Max Optimization |        |         ||
      | Feb 29 |   * Midterm *    |       |     ||
 9    | Mar 05 |   L16: Min-Max Optimization  |  |  HW5 out         ||
