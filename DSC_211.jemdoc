@@ -144,25 +144,26 @@ There is no required textbooks. The course will draw some of the materials from 
 
 - Dmitriy Drusvyatskiy [https://sites.math.washington.edu/~ddrusv/crs/Math_516_2021/bookwithindex.pdf Convex Analysis and Nonsmooth Optimization]
 
-- Sebastien Bubeck [https://arxiv.org/pdf/1405.4980.pdf Convex Optimization: Algorithms and Complexity]. 
-
-- Nisheeth K. Vishnoi [https://convex-optimization.github.io/  Algorithms for Convex Optimization]
-
 - Francesco Orabona [https://arxiv.org/pdf/1912.13213.pdf A Modern Introduction to Online Learning]
 
 - Aaron Sidford [https://drive.google.com/file/d/1BfMkt2glaZpJGwg7gwsJw9T_XxH3o8gx/view Optimization Algorithms]
 
-- Stephen Boyd and Lieven Vandenberghe [https://web.stanford.edu/~boyd/cvxbook/ Convex Optimization]
+- Stephen Boyd and Lieven Vandenberghe [https://web.stanford.edu/~boyd/
+cvxbook/ Convex Optimization]
 
-- Shai Shalev-Shwartz [https://www.cs.huji.ac.il/~shais/papers/OLsurvey.pdf Online Learning and Online Convex Optimization]
-
-- Yin Tat Lee and Santosh Vempala [https://github.com/YinTat/optimizationbook/blob/main/main.pdf Techniques in Optimization and Sampling]
+- John Duchi [https://stanford.edu/~jduchi/PCMIConvex/Duchi16.pdf Introductory Lectures on Stochastic Convex Optimization]
 
 - Arkadi Nemirovski [https://www2.isye.gatech.edu/~nemirovs/LMCOLN2022Fall.pdf Lectures on Modern Convex Optimization]
 
-- Elad Hazan [https://arxiv.org/pdf/1909.05207.pdf Introduction to Online Convex Optimization]
+- Nisheeth K. Vishnoi [https://convex-optimization.github.io/  Algorithms for Convex Optimization]
 
-- John Duchi [https://stanford.edu/~jduchi/PCMIConvex/Duchi16.pdf Introductory Lectures on Stochastic Convex Optimization]
+- Sebastien Bubeck [https://arxiv.org/pdf/1405.4980.pdf Convex Optimization: Algorithms and Complexity]. 
+
+- Yin Tat Lee and Santosh Vempala [https://github.com/YinTat/optimizationbook/blob/main/main.pdf Techniques in Optimization and Sampling]
+
+- Shai Shalev-Shwartz [https://www.cs.huji.ac.il/~shais/papers/OLsurvey.pdf Online Learning and Online Convex Optimization]
+
+- Elad Hazan [https://arxiv.org/pdf/1909.05207.pdf Introduction to Online Convex Optimization]
 
 - Alexandre d'Aspremont, Damien Scieur, Adrien Taylor [https://arxiv.org/abs/2101.09545.pdf Acceleration Methods]
 
@@ -173,6 +174,11 @@ There is no required textbooks. The course will draw some of the materials from 
 - Yurii Nesterov [https://link.springer.com/book/10.1007/978-1-4419-8853-9 Introductory Lectures on Convex Optimization]
 
 - Amir Beck [https://epubs.siam.org/doi/book/10.1137/1.9781611977622 Introduction to Nonlinear Optimization - Theory, Algorithms and Applications]
+
+== Great youtube channels for learning optimization
+
+- Constantine Caramanis [https://www.youtube.com/playlist?list=PLXsmhnDvpjORzPelSDs0LSDrfJcqyLlZc Optimization Algorithms]
+
 
 == Acknowledgments
 
