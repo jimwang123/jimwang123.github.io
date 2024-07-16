@@ -6,9 +6,9 @@
 {}{img_left}{JW3.jpg}{}{220}{200}{}
 
 I am an assistant professor in the Department of Electrical and Computer Engineering and the Halicioğlu Data Science Institute
-at UC San Diego. My research interests are the interplay between 
-optimization, statistics, and machine learning. I like discovering connections between different research areas, e.g., 
-[https://link.springer.com/article/10.1007/s10107-023-01976-y  optimization and no-regret learning], [https://arxiv.org/abs/2207.02189 optimization and sampling], [https://arxiv.org/abs/2210.10019 optimization and tackling distribution shifts].
+at UC San Diego. My research is centered around optimization and
+its connections to statistics, machine learning, and classical mechanics. I like discovering connections between different research areas, e.g., 
+[https://link.springer.com/article/10.1007/s10107-023-01976-y  optimization and no-regret learning], [https://arxiv.org/abs/2207.02189 optimization and sampling], [https://arxiv.org/abs/2402.13988 optimization and Hamiltonian mechanics].
 
 
 I was a postdoc at Yale University working with [http://www.cs.yale.edu/homes/wibisono/ Professor Andre Wibisono]. I received my CS PhD from Georgia Tech and was very fortunate to be advised by [https://www.cc.gatech.edu/~jabernethy9/  Professor Jacob Abernethy]. I hold my M.S. in Communication Engineering and B.S. in Electrical Engineering from National Taiwan University. 
@@ -30,6 +30,16 @@ Spring 2024 ECE 273 Convex Optimization and Applications
 
 ~~~
 
+~~~
+* Optimization and Machine Learning Group: *
+
+PhD students:
+
+- Can Chen \[HDSI\], since 2024 - 
+- Jaehong Moon \[ECE\], since 2024 - 
+- Maria-Eleni Sfyraki \[HDSI\], since 2024 - 
+
+~~~
 
 ~~~
 *Preprints: * 
