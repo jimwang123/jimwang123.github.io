@@ -21,16 +21,6 @@ Email: jkw005 \[at] ucsd  \[dot\] edu
 ~~~
 
 ~~~
-
-* Teaching: *
-
-Winter 2024 DSC 211 Introduction to Optimization
-
-Spring 2024 [ECE_273.html ECE 273 Convex Optimization and Applications]
-
-~~~
-
-~~~
 * Optimization and Machine Learning Group: *
 
 PhD students:
@@ -43,6 +33,17 @@ MS students:
 - Yi Liu \[ECE\], since 2024 -
 
 ~~~
+
+~~~
+
+* Teaching: *
+
+DSC 211 Introduction to Optimization. [./teaching/DSC211Winter2024.pdf /Teaching Evaluation: Winter 2024/]
+
+[ECE_273.html ECE 273 Convex Optimization and Applications]. [./teaching/ECE273Spring2024.pdf /Teaching Evaluation: Spring 2024/]
+
+~~~
+
 
 ~~~
 *Preprints: * 
@@ -132,5 +133,6 @@ In ICML /(International Conference on Machine Learning)/, 2014.
 [http://jmlr.org/proceedings/papers/v32/wangf14.pdf paper]
 [./papers/slide_icml14.pdf slide]
 ~~~
+
 
 
