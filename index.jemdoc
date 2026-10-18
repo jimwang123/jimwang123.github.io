@@ -8,7 +8,7 @@
 I am an assistant professor in the Department of Electrical and Computer Engineering and the Halicioğlu Data Science Institute
 at UC San Diego. My research is centered around [https://arxiv.org/abs/2506.04192 optimization] and
 its connections to statistics, machine learning, and classical mechanics. I like working at the intersection of different research areas and discovering their connections, e.g., 
-[https://link.springer.com/article/10.1007/s10107-023-01976-y  optimization and no-regret learning], [https://arxiv.org/abs/2207.02189 optimization and sampling], [https://arxiv.org/pdf/2402.13988 optimization and mechanics]. I teach [teaching.html optimization courses].
+[https://link.springer.com/article/10.1007/s10107-023-01976-y  optimization and no-regret learning], [https://arxiv.org/abs/2207.02189 optimization and sampling], [https://link.springer.com/article/10.1007/s10957-026-03123-x optimization and mechanics]. I teach [teaching.html optimization courses].
 
 
 I was a postdoc at Yale University working with [http://www.cs.yale.edu/homes/wibisono/ Professor Andre Wibisono]. I received my CS PhD from Georgia Tech and was very fortunate to be advised by [https://www.cc.gatech.edu/~jabernethy9/  Professor Jacob Abernethy]. I hold my M.S. in Communication Engineering and B.S. in Electrical Engineering from National Taiwan University. 
@@ -105,7 +105,7 @@ In NeurIPS (/Annual Conference on Neural Information Processing Systems/), 2018.
 
 [http://proceedings.mlr.press/v75/abernethy18a Faster Rates for Convex-Concave Games] \n
 (name order) Jacob Abernethy, Kevin Lai, Kfir Levy, and *\**Jun-Kun Wang. \n
-In COLT /(Computational Learning Theory)/, 2018.
+In COLT /(Conference on Learning Theory)/, 2018.
 
 [https://papers.nips.cc/paper/2017/hash/7371364b3d72ac9a3ed8638e6f0be2c9-Abstract.html On Frank-Wolfe and Equilibrium Computation]\n
 Jacob Abernethy and *\**Jun-Kun Wang. \n
